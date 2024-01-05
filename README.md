@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Rafay!</h1>
 <h3 align="center">Anonymous guy stucked in the world of Developers 🏃</h3>
 
-<img align="right" width="400" alt="Coding"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGqzfQQZJ0sjexi5GyMpKsF2cFrGDspWdTQ&usqp=CAU">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafay637&label=Profile%20views&color=0e75b6&style=flat" alt="rafay637" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafay637" alt="rafay637" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="center" width="400" alt="Coding"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGqzfQQZJ0sjexi5GyMpKsF2cFrGDspWdTQ&usqp=CAU">
 
 - 🔭 I’m currently working on **ReactJS**
 
@@ -15,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafay637](https://github.com/rafay637)
 
-- 💬 Ask me about **MERN , React Native , NextJS , Firebase**
+- 💬 Ask me about **ES6 | TypeScript | Tailwind CSS | MERN | React Native | NextJS | Firebase**
 
 - 📫 How to reach me **rafaysyed637@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native & NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rafay637](https://github.com/rafay637)
+- 👨‍💻 All of my projects are available at [https://syedrafay-portfolio.netlify.app/](https://syedrafay-portfolio.netlify.app/)
 
 - 💬 Ask me about **ES6 | TypeScript | Tailwind CSS | MERN | React Native | NextJS | Firebase**
 

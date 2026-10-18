@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Rafay!</h1>
-<h3 align="center">Anonymous guy stucked in the world of Developers 🏃</h3>
+<h3 align="center">Non chalant Developer 🏃</h3>
 
 <img align="right" width="500" alt="Coding"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
